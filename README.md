@@ -1,2 +1,31 @@
-# 5b95780e-franchise-operations-and-multi
-A Notion workspace for franchise development teams and multi-unit operators managing compliance and brand standards across locations. Features a franchisee directory with performance scorecard tracking, brand standards audit checklist by location, training and certification status board for all franchise staff, franchise agreement renewal calendar 
+# Franchise Operations and Multi-Unit Compliance Management Notion Template
+
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/3cI7sL3aL0bW6xy6fycZa0O)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/3cI7sL3aL0bW6xy6fycZa0O)
+- [Buy on Gumroad](https://aevornsell.gumroad.com/l/ligfyy)
+- [Buy on Whop](https://whop.com/franchise-operations-and-multi-unit-compliance-management-notion-template)
+
